@@ -1,0 +1,6 @@
+{
+  "name": "Aura Bank - İnternet Bankacılığı",
+  "description": "Modern minimalist neo-bank masaüstü internet şubesi simülasyonu. Canlı döviz, altın ve yatırım portföyü takibi, FAST transfer ve kart yönetimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
